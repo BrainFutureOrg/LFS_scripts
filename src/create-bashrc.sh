@@ -1,3 +1,6 @@
+#!/bin/bash
+# Copied from LFS book
+
 cat > ~/.bashrc << "EOF"
 set +h
 umask 022
